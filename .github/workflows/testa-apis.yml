@@ -28,7 +28,5 @@ jobs:
           echo
           test "$(curl -s -o /dev/null -w '%{http_code}' http://localhost:3000/produto)" = 404
           node index.js
-      - uses: actions/upload-artifact@v4
-        with:
-          name: lock-mercadoagil-api
-          path: aula-03/parte-2-mercadoagil-api/package-lock.json
+      - name: mostra o package-lock
+        run: echo "LOCK $(base64 -w0 package-lock.json)"
