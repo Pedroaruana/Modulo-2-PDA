@@ -1,6 +1,6 @@
--- IngressoÁgil · Trio: <nome 1>, <nome 2>, <nome 3>
+-- IngressoÁgil · Autor: Pedro Aruanã
 --
--- CPF de todo comprador "por via das dúvidas": o trio não concorda.
+-- CPF de todo comprador "por via das dúvidas": não concordo.
 -- Produtora: pra vender ingresso basta nome e email; guardar CPF sem uso aumenta o risco
 -- e a responsabilidade dela pela LGPD em caso de vazamento.
 -- Cliente: é um dado pessoal sensível exposto a vazamento e golpe sem trazer nenhum benefício pra ela.

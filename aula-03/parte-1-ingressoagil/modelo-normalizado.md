@@ -1,6 +1,6 @@
 # IngressoÁgil · Modelo normalizado
 
-Trio: <nome 1>, <nome 2>, <nome 3>
+Autor: Pedro Aruanã
 
 ## Passo 1: entidades e relacionamentos
 
